@@ -1,21 +1,29 @@
-# Hola, soy Tulio Contreras
+# Tulio Contreras
 
-Desarrollador de software con experiencia práctica en aplicaciones web, APIs REST y bases de datos relacionales. Busco una oportunidad laboral como desarrollador.
+### Desarrollador Full-Stack
 
-Trabajo con **PHP y Laravel**, **React y Next.js**, **TypeScript**, **MySQL** y **PostgreSQL**. También utilizo Python y Django en proyectos de práctica.
+Construyo aplicaciones donde la interfaz, las APIs y los datos trabajan juntos. Mi enfoque está en convertir procesos de negocio en flujos que las personas puedan usar: consultar información, completar operaciones y dar seguimiento al trabajo.
 
-## Proyectos
+Trabajo con **Laravel, React, Next.js y TypeScript**, sobre bases de datos **MySQL y PostgreSQL**. También desarrollo con **Python y Django**, y utilizo **Git y Postman** para organizar el trabajo y revisar integraciones.
 
-| Proyecto | Qué puedes revisar | Tecnologías |
+## Qué puedes encontrar en mi código
+
+| Proyecto | El problema que aborda | Decisiones que puedes revisar |
 | --- | --- | --- |
-| [SemBook](https://github.com/Tulio-Contreras/prueba-tecnica-api-de-busqueda-de-libros) | Búsqueda de libros mediante Open Library API, detalles y favoritos con persistencia local. | Next.js, TypeScript, Zustand |
-| [Bank App](https://github.com/Tulio-Contreras/Bank-app) | Demo educativa de pagos con API, autenticación, roles e historial de transacciones. | Laravel, MySQL, React Native, Expo |
-| [TaskDev](https://github.com/Tulio-Contreras/sistema-gestion-de-proyectos-de-equipo-desarrollo-) | Gestión de tareas y equipos con espacios de trabajo y un flujo de aprobación por roles. | Python, Django, PostgreSQL |
+| [SemBook](https://github.com/Tulio-Contreras/prueba-tecnica-api-de-busqueda-de-libros) | Encontrar libros y conservar una biblioteca personal. | Open Library, búsqueda con Next.js y TypeScript, estado con Zustand y persistencia local. |
+| [Bank App](https://github.com/Tulio-Contreras/Bank-app) | Conectar una aplicación móvil con una API de operaciones de pagos. | Laravel y MySQL, autenticación, permisos por rol, transacciones y cliente React Native/Expo. Demo educativa. |
+| [TaskDev](https://github.com/Tulio-Contreras/sistema-gestion-de-proyectos-de-equipo-desarrollo-) | Dar estructura al trabajo y la revisión de un equipo. | Django, espacios de trabajo, objetivos y aprobación por roles. |
 
-He participado en un sistema de gestión académica para Brighton Academy, con módulos de asistencia, calificaciones y portales de estudiantes.
+En **Brighton Academy** he participado en una plataforma de gestión académica que conecta asistencia, calificaciones y portales de estudiantes, trabajando con lógica de negocio y datos relacionales.
+
+## Mi forma de trabajar
+
+Me interesa entender el recorrido completo de una funcionalidad: qué necesita la persona que la usa, qué valida el backend y cómo se guarda la información. Busco que las decisiones del código tengan una razón clara y que el proyecto se pueda seguir desarrollando.
+
+Estoy abierto a oportunidades como **Desarrollador Full-Stack**, con interés en aplicaciones de gestión, integraciones y productos web.
 
 ## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/tulio-andres-contreras-aza-3710b62a4/) · [Correo](mailto:tuliocontreras06@gmail.com)
 
-Los proyectos de práctica se presentan como demostraciones. Puedes consultar el código y la documentación en cada repositorio.
+Puedes consultar el código y la documentación de cada proyecto.
