@@ -6,6 +6,8 @@ Construyo aplicaciones donde la interfaz, las APIs y los datos trabajan juntos. 
 
 Trabajo con **Laravel, React, Next.js y TypeScript**, sobre bases de datos **MySQL y PostgreSQL**. También desarrollo con **Python y Django**, y utilizo **Git y Postman** para organizar el trabajo y revisar integraciones.
 
+En mi [portafolio — Software Lab](https://tulio-contreras.github.io/) puedes probar tres demos interactivas y explorar los casos técnicos: transferencias con validación, búsqueda con favoritos y un tablero con aprobación por roles. Cada caso explica sus decisiones y enlaza al código original.
+
 ## Qué puedes encontrar en mi código
 
 | Proyecto | El problema que aborda | Decisiones que puedes revisar |
@@ -24,6 +26,6 @@ Estoy abierto a oportunidades como **Desarrollador Full-Stack**, con interés en
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/tulio-andres-contreras-aza-3710b62a4/) · [Correo](mailto:tuliocontreras06@gmail.com)
+[Portafolio](https://tulio-contreras.github.io/) · [CV](https://tulio-contreras.github.io/CV_Tulio_Contreras.pdf) · [LinkedIn](https://www.linkedin.com/in/tulio-andres-contreras-aza-3710b62a4/) · [Correo](mailto:tuliocontreras06@gmail.com)
 
 Puedes consultar el código y la documentación de cada proyecto.
